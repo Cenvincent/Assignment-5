@@ -1,0 +1,31 @@
+/* src/CurrencyRates.css */
+.currency-container {
+  background-color: #ff6600; /* Warna oranye */
+  color: white;
+  padding: 20px;
+  text-align: center;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  color: white;
+}
+
+th, td {
+  border: 1px solid white;
+  padding: 10px;
+}
+
+th {
+  background-color: rgba(255, 255, 255, 0.2);
+  font-weight: bold;
+}
+
+.note {
+  font-size: 12px;
+  margin-top: 20px;
+}
